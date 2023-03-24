@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "reproducer"]
+	path = reproducer
+	url = https://github.com/cran/reproducer
+	shallow = true
+	registered = true
