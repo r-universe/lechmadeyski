@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "reproducer"]
 	path = reproducer
-	url = https://github.com/cran/reproducer
+	url = https://github.com/lechmadeyski/reproducer
